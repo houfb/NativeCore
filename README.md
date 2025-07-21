@@ -1,17 +1,14 @@
 # NativeCore
 一个轻量级、极简、高性能的前后端一体的开发框架，强调极简、统一、渐进、高效、原生、务实的设计理念。
-A lightweight, Minimal, high-performance, native front-end and back-end framework emphasizing minimalism, semantic tags, and seamless integration for efficient web development.
-
-
+A lightweight, minimalist, high-performance full-stack development framework emphasizing simplicity, unification, progressive enhancement, efficiency, native capabilities, and pragmatic design principles.
 
  
-
 ---
 
 ## 概述 / Overview
 
-NativeCore 拒绝黑盒与高大上，追求极简、统一、渐进、高效、原生、务实的设计理念。它推崇jQuery那种只做一个安静的工具库，不绑定你必须使用任何技术，你用我时，我是最锋利的利刃，你不用我时，我便毫不存在。它坚持原生的性能，这体现在方方面面，尤其是前端部分，它拒绝了vue与react，采用了原生HTML的开发范式，以及同样只安静做个工具库的jQuery做为默认技术栈，故而取名Native。它力求去除一切无实际价值的内容，保持本身的最小化和轻量化，只做最核心的工作，将自由留给开发者，故名Core，最终，我为他取名NativeCore,这名字很土，很技术范儿，但这质朴无华的名字与本身的风格也正好相映。
-
+NativeCore 拒绝黑盒与高大上，追求极简、统一、渐进、高效、原生、务实的设计理念。它推崇jQuery那种只做一个安静的工具库，不绑定你必须使用任何技术，你用我时，我是最锋利的利刃，你不用我时，我便毫不存在。它坚持原生的性能，这体现在方方面面，尤其是前端部分，它拒绝了vue与react，采用了原生HTML的开发范式，以及同样只安静做个工具库的jQuery做为默认技术栈，故而取名Native。它力求去除一切无实际价值的内容，保持本身的最小化和轻量化，只做最核心的工作，将自由留给开发者，故名Core，最终，我为他取名NativeCore,这名字很土，很技术范儿，但这质朴无华的名字与本身的风格也正好相映。  
+NativeCore rejects black boxes and grandiose complexity, pursuing a design philosophy that is minimalist, unified, progressive, efficient, native, and pragmatic. It embraces the spirit of jQuery as a quiet utility library—without forcing you to adopt any specific technology. When you use it, it is a sharp tool; when you don’t, it simply does not exist. It insists on native performance, especially on the front end, rejecting frameworks like Vue and React, and instead adopting a native HTML development paradigm, with jQuery as the default lightweight utility stack. Hence the name “Native.” It strives to eliminate anything without practical value, maintaining minimalism and lightweight core functionality, leaving freedom to developers. Therefore, it is named “Core.” Altogether, I named it NativeCore—a plain, technical-sounding name that perfectly matches its humble and unpretentious style.
 
 
 
